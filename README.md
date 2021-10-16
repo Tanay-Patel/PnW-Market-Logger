@@ -15,13 +15,13 @@ I also averaged all buy and sell transactions, filtered outliers, and stored ave
 
 Overview: 
 
-<img src="ReadMeImages/Logger.png" alt="drawing" height="200"/>
+<img src="ReadMeImages/Logger.png" alt="drawing"/>
 
 Adding/Removing Resources:
 
-<img src="ReadMeImages/Logger2.png" alt="drawing" height="200"/>
+<img src="ReadMeImages/Logger2.png" alt="drawing"/>
 
 Zooming and Panning Abilities:
 
-<img src="ReadMeImages/Logger3.png" alt="drawing" height="200"/>
+<img src="ReadMeImages/Logger3.png" alt="drawing"/>
 
