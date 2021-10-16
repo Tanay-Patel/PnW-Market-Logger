@@ -1,4 +1,4 @@
-# PnW Market Logger Generator
+# PnW Market Logger
 #### Coded by Tanay Patel
 <br />
  
